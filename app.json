@@ -106,12 +106,12 @@
     },
     "YOUR_CHANNEL": {
       "description": "Fill your channel username(without @) to get this displayed on your MIKASA Alive.",
-      "value": "t.me/DEADLY_KAAL_BOT",
+      "value": "",
       "required": false
     },
     "YOUR_GROUP": {
       "description": "Fill your group username(without @) to get this displayed on your MIKASA Alive.",
-      "value": "t.me/DEADLY_KAAL_SUPPORT",
+      "value": "",
       "required": false
     },
     "SUDO_USERS": {
