@@ -65,10 +65,6 @@
       "description": "Fill DISABLE to turn off pm permit.",
       "value": "ENABLE"
     },
-    "CUSTOM_PMPERMIT": {
-      "description": "Enter Your custom pm permit msg.",
-      "value": "PLEASE DO NOT SPAM MY DM, I WILL REPLY YOU AFTER COME BACK ONLINE!",
-    },
     "APP_ID": {
       "description": "Get this value from my.telegram.org",
       "value": ""
