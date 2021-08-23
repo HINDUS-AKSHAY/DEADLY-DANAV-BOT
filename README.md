@@ -85,5 +85,5 @@
 
 # credits
 
-ORIGINAL REPO - [HELLBOT](https://github.com/The-HellBot/HellBot)
-HELL BOT OWNER - [PRO](t.me/ForGo10God)
+1) ORIGINAL REPO - [HELLBOT](https://github.com/The-HellBot/HellBot)
+2) HELL BOT OWNER - [PRO](t.me/ForGo10God)
