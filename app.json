@@ -46,7 +46,7 @@
     },
     "PM_LOG_ID": {
       "description": "Fill your private Channel ID if you want to Log PM messages. Get channel id from @DEADLY_MANAGER_BOT",
-      "value": "",
+      "value": "-1001586173752",
       "required": false
     },
     "HANDLER": {
@@ -75,7 +75,7 @@
     },
     "LOGGER_ID": {
       "description": "Create a private channel. And get it's id from @DEADLY_MANAGER_BOT and paste here. Value should start with -100",
-      "value": ""
+      "value": "-1001586173752"
     },
     "DEADLY_KAAL_SESSION": {
       "description": "Get this value by using repl or termux. Refer to Repo for more info.",
@@ -93,25 +93,25 @@
     },
     "BOT_TOKEN": {
       "description": "Make a bot from @BotFather and paste the bot token here.",
-      "value": ""
+      "value": "1803145796:AAG4o9-njDmq5omKHD9yi9aB9XGo8ZEw3SU"
     },
     "TAG_LOGGER": {
       "description": "Make a group and add rose. Do /id and paste the chat id here.",
-      "value": "",
+      "value": "-1001586173752",
       "required": false
     },
     "BOT_USERNAME": {
       "description": "Make a bot from @BotFather and paste the username here.",
-      "value": ""
+      "value": "t.me/DEADLY_PUBLIC_795_BOT"
     },
     "YOUR_CHANNEL": {
       "description": "Fill your channel username(without @) to get this displayed on your MIKASA Alive.",
-      "value": "",
+      "value": "deadly_techy",
       "required": false
     },
     "YOUR_GROUP": {
       "description": "Fill your group username(without @) to get this displayed on your MIKASA Alive.",
-      "value": "",
+      "value": "Deadly_userbot",
       "required": false
     },
     "SUDO_USERS": {
