@@ -1,6 +1,7 @@
 Pillow>=5.3.0
 PyGithub
 PyDictionary
+cv2
 PyPDF2
 pygments
 pymediainfo
