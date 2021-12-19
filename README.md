@@ -1,5 +1,5 @@
 <h1 align="center">
-<b>𝐃𝐄𝐀𝐃𝐋𝐘 𝐊𝐀𝐀𝐋 𝐁𝐎𝐓 {🇮🇳}</b>
+<b>𝐃𝐄𝐀𝐃𝐋𝐘 𝐃𝐀𝐍𝐀𝐕 𝐁𝐎𝐓 {🇮🇳}</b>
 </h1>
 <p align="center">
   <img src="https://telegra.ph/file/22604038d2a21ab10a6cb.jpg" alt="The DEADLY BOT">
@@ -30,14 +30,14 @@
 
 ## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 :
 
-- <a href="https://t.me/DEADLY_USERBOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-- <a href="https://t.me/deadly_techy"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+- <a href="https://t.me/DEADLY_DANAV_BOT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+- <a href="https://t.me/deadly_DANAV_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
 
 ## 𝙳𝙴𝙿𝙻𝙾𝚈  🚀
 
-[![Deploy](https://telegra.ph/file/0eb22051107b293466d50.jpg)](https://heroku.com/deploy?template=https://github.com/DEADLY-FIGHTERS/DEADLY-KAAL-BOT)
+[![Deploy](https://telegra.ph/file/0eb22051107b293466d50.jpg)](https://heroku.com/deploy?template=https://github.com/DEADLY-FIGHTERS/DEADLY-DANAV-BOT)
 
 ## [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FDEADLY-FIGHTERS%2FMIKASA-USERBOT&plugins=postgresql&envs=ABUSE%2CAPI_HASH%2CAPP_ID%2CDEADLY_KAAL_SESSION%2CBOT_TOKEN%2CBOT_USERNAME%2CLOGGER_ID%2CHANDLER%2CENV&optionalEnvs=ABUSE%2CHANDLER%2CENV&ABUSEDesc=Fill+%22ON%22+for+abuses+and+some+adult+plugins&API_HASHDesc=Get+it+from+my.telegram.org%2Fapi&APP_IDDesc=Get+it+from+my.telegram.org%2Fapi&DEADLY_KAAL_SESSIONDesc=Fill+your+String+session&BOT_TOKENDesc=Bot+token+from+%40Botfather&BOT_USERNAMEDesc=Bot+username+from+%40Botfather&LOGGER_IDDesc=Create+a+channel+and+get+it%27s+id+from+%40missrose_bot&HANDLERDesc=Your+command+handler.+Default+value+is+%22.%22&ENVDesc=Leave+it+as+it+is&referralCode=n738VA)
 ------------------------------------------------
@@ -65,17 +65,14 @@
 ------------
 # 𝙲𝚁𝙴𝙳𝙸𝚃𝚂 - 
 
-1) 𝙾𝚆𝙽𝙴𝚁 - [𝙰𝙼𝙰𝙽](t.me/idanishbaba)
-2) 𝙾𝚆𝙽𝙴𝚁 - [𝙶𝙰𝚁𝚆](www.github.com/garwmishra)
-3) 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - [𝚂𝙰𝙼𝙴𝙴𝚁](t.me/official_sameer)
-4) 𝚂𝚄𝙿𝙿𝙾𝚁𝚃𝙴𝚁 - [𝙶𝚄𝙻𝚂𝙷𝙰𝙽](t.me/D3VILGULSHAN)
+1) 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 - [𝚂𝙰𝙼𝙴𝙴𝚁](t.me/official_sameer)
 ------
                                                                                              
 ## 𝙳𝙸𝚂𝙲𝙻𝙰𝙸𝙼𝙴𝚁 
 
 
 - We won't be responsible for any kind of ban due to this bot.
-- Dᴇᴀᴅʟʏ Kᴀᴀʟ was made for fun purpose and to make group management easier.
+- Dᴇᴀᴅʟʏ Dᴀɴᴀᴠ was made for fun purpose and to make group management easier.
 - It's your concern if you spam and gets your account banned.
 - Also, Forks won't be entertained.
 - If you fork this repo and edit plugins, it's your concern for further updates.
